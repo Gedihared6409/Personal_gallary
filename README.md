@@ -28,4 +28,17 @@ A personal gallery application that one displays their photos for others to see 
 
     **Output Example**: Redirected to the page with photos on travel category
 
+## Setup/Installation Requirements
+To start using this project use the following commands:
+
+* git clone
+* `cd <project name>`
+* `atom .` or
+* `code . `(this is if Visual Studio Code is your preferred text editor)
+
+To run this program
+* run this command lines in your terminal:
+* `python manage.py runserver`
+* access the application on this localhost address `http://127.0.0.1:8000`
+
 
