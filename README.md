@@ -31,7 +31,7 @@ A personal gallery application that one displays their photos for others to see 
 ## Setup/Installation Requirements
 To start using this project use the following commands:
 
-* git clone
+* git clone 
 * `cd <project name>`
 * `atom .` or
 * `code . `(this is if Visual Studio Code is your preferred text editor)
@@ -42,3 +42,15 @@ To run this program
 * access the application on this localhost address `http://127.0.0.1:8000`
 
 
+## Prerequisites
+You need the following to work on the project:
+
+`-Python version 3.6`
+
+`-Django 2.0`
+
+`-Pip`
+
+`-virtualenv`
+
+`-A text  Editor`
