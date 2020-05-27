@@ -59,3 +59,8 @@ You need the following to work on the project:
 * Django
 * HTML/CSS
 * Bootstrap
+
+## License
+MIT License
+
+Copyright (c) 2019 *ali harred*
